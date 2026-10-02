@@ -12,3 +12,12 @@
 archive เก็บชุดสำรองข้อมูลทั้งหมด รวมทะเบียน คำบรรยายอัตโนมัติ และเสียงที่มีอยู่
 manifest.json ระบุลำดับและค่า SHA256 ของแต่ละส่วน นำส่วนมาต่อกันตามลำดับก่อนแตก tar.gz
 อย่านำ archive ไปเป็นเนื้อหาเว็บไซต์
+
+## เปิดใช้งานออนไลน์
+https://loveiscomingsoon.github.io/dhammanava-library/
+
+สถิติผู้เข้าชม (ผู้ดูแลเข้าสู่ระบบ): https://dhammanava-library.goatcounter.com/
+
+ชุดสำรองทั้งหมด: https://github.com/loveiscomingsoon/dhammanava-library/releases/tag/archive-v1
+ไฟล์สำรองเก็บเป็น Release assets และไม่อยู่ในเว็บไซต์ docs
+เว็บไซต์ชุดแรกมีหนังสือเรียบเรียงและเสียง 6 ตอน ไม่ได้หมายความว่าถอดและตรวจทานวิดีโอทั้งหมดแล้ว
