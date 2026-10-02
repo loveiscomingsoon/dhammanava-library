@@ -1,4 +1,4 @@
-const YOUTUBE_EPISODES = {"DP-01": "YTaFOGAEm9s", "DP-03": "n8T_WWZ62RI", "DP-04": "xysji_FtVlc", "DP-05": "tCht3mufVmc", "DP-06": "2TrteBzHFs8"};
+const YOUTUBE_EPISODES = {"DP-01": "YTaFOGAEm9s", "DP-02": "RsFnw4FJ0CY", "DP-03": "n8T_WWZ62RI", "DP-04": "xysji_FtVlc", "DP-05": "tCht3mufVmc", "DP-06": "2TrteBzHFs8"};
 const $=id=>document.getElementById(id),audio=$('audio');
 let state={episode:'DP-01',positions:{},bookmarks:[],speed:1,font:17};
 try{state={...state,...JSON.parse(localStorage.getItem('dhamma-reader-v1')||'{}')}}catch{}
