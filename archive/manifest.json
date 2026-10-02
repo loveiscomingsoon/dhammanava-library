@@ -1,0 +1,25 @@
+{
+  "format": "Concatenate parts in listed order, then extract tar.gz",
+  "parts": [
+    {
+      "file": "library.tar.gz.part001",
+      "bytes": 94371840,
+      "sha256": "abf55e19c1734fbe3d4cde3e49bded299899eb061ea1ecf4ab60aa7a0226fbab"
+    },
+    {
+      "file": "library.tar.gz.part002",
+      "bytes": 94371840,
+      "sha256": "8a7f2fe9390ae7946bb7a6f54853d66cfd8c0f7c2ad31c93936d52c8b491a9d1"
+    },
+    {
+      "file": "library.tar.gz.part003",
+      "bytes": 94371840,
+      "sha256": "32a0fe57dd455f5c753d650104736f86faf2c99d3b3c3787b5c26403f5fc0561"
+    },
+    {
+      "file": "library.tar.gz.part004",
+      "bytes": 23310586,
+      "sha256": "97eae8644617f9836d82df3dcd1a52cf8229b34dfb90572121db8a563b3a97c8"
+    }
+  ]
+}
